@@ -1,0 +1,35 @@
+{
+  "name": "css-scope-inline",
+  "version": "0.0.1",
+  "description": "🌘 Scope your inline style tags in pure vanilla CSS! Only 15 lines. No build. No dependencies.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gnat/css-scope-inline.git"
+  },
+  "main": "script.js",
+  "keywords": [
+    "css", 
+    "html", 
+    "frontend", 
+    "dom", 
+    "hyperscript", 
+    "inline-css", 
+    "inline", 
+    "inline-styles", 
+    "stylesheet", 
+    "lob", 
+    "surreal", 
+    "scoped-css", 
+    "tailwind", 
+    "tailwindcss", 
+    "inline-style", 
+    "htmx", 
+    "locality-of-behavior", 
+    "tailwind-alternative"
+  ],
+  "author": "gnat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnat/css-scope-inline/issues"
+  }
+}
